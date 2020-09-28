@@ -10,5 +10,13 @@
   - introduced invite command
   - changed default prefix to b!
   - made prefix changeable and retrievable
+- v1.2
+  - fixed reply to multi-word greetings
+  - made prefix command accessible with default prefix
+  - added Koisuru☆Beam Spotify link
+  - changed link command to link_yt
+  - added resetprefix command
+  - improved changeprefix command
+  - added help command and menu
 
 https://youtu.be/I25Cqlr5_Sc
