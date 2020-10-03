@@ -24,7 +24,7 @@ Written by a small team of three using the Java Discord API.
 - v1.3 (WIP)
   - changed online status to do-not-disturb
   - set custom status/activity to "Listening to ☆BEAM"
-  - addded ☆BEAMbot profile picture to README.md
+  - addded [☆BEAMbot profile picture](https://cdn.discordapp.com/attachments/443775272320499722/750354400161300572/BEAM.jpg) to README.md
   - add dadbot_disable command
   - add greetings_disable command
   - [WIP] add moderation functionality
