@@ -4,6 +4,8 @@
 My first Discord bot, complete with inside jokes and server moderation utility.
 Written by a small team of three using the Java Discord API. 
 
+Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&permissions=29879360&scope=bot
+
 - v1.0 
   - initial release
 - v1.1
