@@ -1,5 +1,7 @@
-# BEAMbot
-☆BEAMbot, my first Discord bot. Written for a personal server using the Java Discord API and complete with inside jokes.
+# ☆BEAMbot
+# ![](https://cdn.discordapp.com/attachments/443775272320499722/750354400161300572/BEAM.jpg)
+
+My first Discord bot, written for a personal server using the Java Discord API and complete with inside jokes.
 
 - v1.0 
   - initial release
@@ -19,8 +21,9 @@
   - improved changeprefix command
   - added help command and menu
 - v1.3 (WIP)
-  - [x] changed online status to do-not-disturb
-  - [x] set custom status/activity to "Listening to ☆BEAM"
-  - [ ] add moderation functionality
-
+  - changed online status to do-not-disturb
+  - set custom status/activity to "Listening to ☆BEAM"
+  - addded ☆BEAMbot profile picture to README.md
+  - [WIP] add moderation functionality
+  
 https://youtu.be/I25Cqlr5_Sc
