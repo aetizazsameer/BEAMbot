@@ -28,6 +28,5 @@ Written by a small team of three using the Java Discord API.
   - made "BEAM" and "☆BEAM" replies toggleable
   - made Dadbot functionality toggleable
   - made greeting replies toggleable
-  - [WIP] added moderation functionality
   
 https://youtu.be/I25Cqlr5_Sc
