@@ -25,8 +25,8 @@ Complete with inside jokes and server moderation utility.
   - changed online status to do-not-disturb
   - set custom status/activity to "Listening to ☆BEAM"
   - addded ☆BEAMbot profile picture to README.md
-  - [WIP] add dadbot_disable command
-  - [WIP] add greetings_disable command
+  - add dadbot_disable command
+  - add greetings_disable command
   - [WIP] add moderation functionality
   
 https://youtu.be/I25Cqlr5_Sc
