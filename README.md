@@ -35,7 +35,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - [x] added moderation toggle
   - [X] added kick command
   - [ ] added ban and unban command
-  - [ ] added softban and unsoftban command
+  - [ ] added softban command
   - [ ] added mute and unmute command
   - [X] added message delete for kick/ban/softban/mute
   - [X] updated help menu
