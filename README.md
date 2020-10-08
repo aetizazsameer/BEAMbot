@@ -30,5 +30,14 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - made "BEAM" and "☆BEAM" replies toggleable
   - made Dadbot functionality toggleable
   - made greeting replies toggleable
-  
+  - updated help menu
+- v1.4
+  - [x] added moderation toggle
+  - [X] added kick command
+  - [ ] added ban and unban command
+  - [ ] added softban and unsoftban command
+  - [ ] added mute and unmute command
+  - [X] added message delete for kick/ban/softban/mute
+  - [X] updated help menu
+
 https://youtu.be/I25Cqlr5_Sc
