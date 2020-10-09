@@ -18,7 +18,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
 - v1.2
   - fixed replies to multi-word greetings
   - made prefix command accessible with default prefix
-  - added [Koisuru☆Beam Spotify link](https://open.spotify.com/track/43fdUr1bBMtG2vL7PRwjug?si=usam7ji2Shm00du7a79ztw)
+  - added [Koisuru☆Beam Spotify link](https://open.spotify.com/track/43fdUr1bBMtG2vL7PRwjug?si=usam7ji2Shm00du7a79ztw) command
   - changed link command to link_yt
   - added resetprefix command
   - improved changeprefix command
@@ -35,9 +35,11 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - [x] added moderation toggle
   - [X] added kick command
   - [ ] added ban and unban command
-  - [ ] added softban command
+  - [X] added message delete for moderation commands
+  - [X] updated help menu (for v1.4 and in preparation for v1.5)
+-v1.5
+  - [ ] added per-user message clear command
+  - [ ] added general message clear command
   - [ ] added mute and unmute command
-  - [X] added message delete for kick/ban/softban/mute
-  - [X] updated help menu
 
 https://youtu.be/I25Cqlr5_Sc
