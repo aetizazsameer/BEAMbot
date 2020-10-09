@@ -37,7 +37,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - [ ] added ban and unban command
   - [X] added message delete for moderation commands
   - [X] updated help menu (for v1.4 and in preparation for v1.5)
--v1.5
+- v1.5
   - [ ] added per-user message clear command
   - [ ] added general message clear command
   - [ ] added mute and unmute command
