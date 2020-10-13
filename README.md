@@ -32,11 +32,11 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - made greeting replies toggleable
   - updated help menu
 - v1.4
-  - [x] added moderation toggle
-  - [X] added kick command
-  - [ ] added ban and unban command
-  - [X] added message delete for moderation commands
-  - [X] updated help menu (for v1.4 and in preparation for v1.5)
+  - added moderation toggle
+  - added kick command
+  - added ban and unban command
+  - added message delete for moderation commands
+  - updated help menu (for v1.4 and in preparation for v1.5)
 - v1.5
   - [ ] added per-user message clear command
   - [ ] added general message clear command
