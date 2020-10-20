@@ -284,10 +284,10 @@ public class BEAMevent extends ListenerAdapter {
                   }
                }
                
-               if(moderation_enabled && command("mute")) { }
-               if(moderation_enabled && command("unmute")) { }
-               if(moderation_enabled && command("userclear")) { }
-               if(moderation_enabled && command("clear")) { }
+               if(moderation_enabled && command("mute")) { /*TODO v1.5*/ }
+               if(moderation_enabled && command("unmute")) { /*TODO v1.5*/ }
+               if(moderation_enabled && command("userclear")) { /*TODO v1.5*/ }
+               if(moderation_enabled && command("clear")) { /*TODO v1.5*/ }
             }
          }
       }
