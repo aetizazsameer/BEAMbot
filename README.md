@@ -38,7 +38,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - added message delete for moderation commands
   - updated help menu (for v1.4 and in preparation for v1.5)
   - moved custom status to BEAMevent.java
-  - updated defualt permissions and invite link and command
+  - updated default permissions and invite link and command
 - v1.5
   - [ ] added per-user message clear command
   - [ ] added general message clear command
