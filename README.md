@@ -9,10 +9,10 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
 - v1.0 
   - initial release
 - v1.1
-  - introduced [DadBot](https://top.gg/bot/247852652019318795) functionality
-  - introduced greeting replies
-  - introduced [Koisuru☆Beam link](https://youtu.be/I25Cqlr5_Sc) command
-  - introduced invite command
+  - added [DadBot](https://top.gg/bot/247852652019318795) functionality
+  - added greeting replies
+  - added [Koisuru☆Beam link](https://youtu.be/I25Cqlr5_Sc) command
+  - added invite command
   - changed default prefix to b!
   - made prefix changeable and retrievable
 - v1.2
@@ -40,6 +40,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - moved custom status to BEAMevent.java
   - updated default permissions and invite link and command
 - v1.5
+  - [x] added ping command
   - [ ] added per-user message clear command
   - [ ] added general message clear command
   - [ ] added mute and unmute command
