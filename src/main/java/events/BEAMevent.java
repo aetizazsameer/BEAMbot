@@ -178,7 +178,7 @@ public class BEAMevent extends ListenerAdapter {
                      .addField("`"+prefix+"ban [@user] [optional: number]`:", "Bans [user] from the guild and deletes [user]'s messages from past [number] days, or 0 days by default.\n" +
                         "Requires ban permissions. Use with caution!", false)
                      .addField("`"+prefix+"unban [user ID]`:", "Unbans [user] from the guild.\n" +
-                        "Requires ban permissions.", false) // TODO: 10/9/2020  
+                        "Requires ban permissions.", false)
                      .addField("`"+prefix+"mute [@user] [optional: number]`:", "Mutes [user] in the guild for [number] hours, or 1 hour by default, or until unmuted.\n" +
                         "Requires manage server permissions and a Muted guild role without send message permissions.", false)
                      .addField("`"+prefix+"unmute [@user]`:", "Unmutes [user] in the guild.\n" +
