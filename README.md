@@ -41,6 +41,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - updated default permissions and invite link and command
 - v1.5
   - [x] added ping command
+  - [X] added retrieve avatar command
   - [ ] added per-user message clear command
   - [ ] added general message clear command
   - [ ] added mute and unmute command
