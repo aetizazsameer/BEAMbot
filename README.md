@@ -41,7 +41,9 @@ Written by a small team of three using the Java Discord API.
   - added ping command
   - added retrieve avatar command
   - added general message clear command
-  - removed invite link
-  - ended self-hosting
+  - improved reply-to-delete for kick, ban, unban, and clear commands
+  - added manage server permission requirements for management commands
+  - *removed invite link*
+  - *ended self-hosting*
   
 https://youtu.be/I25Cqlr5_Sc
