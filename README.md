@@ -43,7 +43,7 @@ Written by a small team of three using the Java Discord API.
   - added general message clear command
   - improved reply-to-delete for kick, ban, unban, and clear commands
   - added manage server permission requirements for management commands
-  - *removed invite link*
-  - *ended self-hosting*
+  - **removed invite link**
+  - **ended self-hosting**
   
 https://youtu.be/I25Cqlr5_Sc
