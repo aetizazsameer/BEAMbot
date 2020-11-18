@@ -173,9 +173,6 @@ public class BEAMevent extends ListenerAdapter {
                if(command("link_spotify"))
                   send(event, "https://open.spotify.com/track/43fdUr1bBMtG2vL7PRwjug?si=usam7ji2Shm00du7a79ztw");
                
-               if(command("invite"))
-                  send(event, "https://discord.com/api/oauth2/authorize?client_id=750688770780823582&permissions=13102150&scope=bot");
-               
                if(command("resetprefix")) {
                   prefix="b!";
                   send(event, "☆BEAMbot prefix reset to default `"+prefix+"`!");
@@ -192,7 +189,7 @@ public class BEAMevent extends ListenerAdapter {
                
                if(command("ping")) {
                   long time = System.currentTimeMillis();
-                  event.getChannel().sendMessage("Pong!").queue(response -> response.editMessageFormat("Ping: %dms", System.currentTimeMillis() - time).queue());
+                  event.getChannel().sendMessage("☆BEAM!").queue(response -> response.editMessageFormat("Ping: %dms", System.currentTimeMillis() - time).queue());
                }
                
                if(command("avatar")) {
@@ -208,7 +205,7 @@ public class BEAMevent extends ListenerAdapter {
                
                if(message.length==1 && command("help")) {
                   resetEmbedBuilder("Help menu");
-                  eb.addField("`"+prefix+"help`:", "Displays this help message! (´・◡・｀)", false)
+                  eb.addField("`"+prefix+"help`:", "This help message! (´・◡・｀)", false)
                      .addField("`"+prefix+"help general`:", "General and fun commands", false)
                      .addField("`"+prefix+"help moderation`:", "Moderation commands", false)
                      .addField("`"+prefix+"help management`:", "Bot management commands", false)
@@ -222,7 +219,8 @@ public class BEAMevent extends ListenerAdapter {
                   eb.addField("`"+prefix+"beam`:", "Responds with ☆BEAM image", false)
                      .addField("`"+prefix+"link_youtube`:", "Responds with Koisuru☆Beam YouTube link", false)
                      .addField("`"+prefix+"link_spotify`:", "Responds with Koisuru☆Beam Spotify link", false)
-                     .addField("`"+prefix+"invite`:", "Responds with shareable bot invite link", false);
+                     .addField("`"+prefix+"ping`:", "Sends bot response time", false)
+                     .addField("`"+prefix+"avatar [@user]`:", "Retrieves and sends [user]'s current avatar to the current channel.", false);
                   setEmbedBuilderFooter(event);
                   sendEmbedBuilder(event);
                }
