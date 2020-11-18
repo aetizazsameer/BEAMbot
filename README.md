@@ -34,15 +34,15 @@ Written by a small team of three using the Java Discord API.
   - added moderation toggle
   - added kick command
   - added ban and unban command
-  - added message delete for moderation commands
+  - added reply-to-delete for moderation commands
   - updated help menu (for v1.4 and in preparation for v1.5)
   - moved custom status to BEAMevent.java
   - updated default permissions and invite link and command
 - v1.5
   - added ping command
   - added retrieve avatar command
-  - added general message clear command
-  - improved reply-to-delete for kick, ban, unban, and clear commands
+  - added message clear command
+  - improved reply-to-delete for moderation commands
   - added manage server permission requirements for management commands
   - **removed invite link**
   - **ended self-hosting**
