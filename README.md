@@ -4,8 +4,6 @@
 My first Discord bot, complete with inside jokes and server moderation utility.
 Written by a small team of three using the Java Discord API. 
 
-Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&permissions=13102150&scope=bot
-
 - v1.0 
   - initial release
 - v1.1
@@ -43,5 +41,7 @@ Invite: https://discord.com/api/oauth2/authorize?client_id=750688770780823582&pe
   - added ping command
   - added retrieve avatar command
   - added general message clear command
+  - removed invite link
+  - ended self-hosting
   
 https://youtu.be/I25Cqlr5_Sc
