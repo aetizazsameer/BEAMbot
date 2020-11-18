@@ -42,6 +42,7 @@ Written by a small team of three using the Java Discord API.
   - added ping command
   - added retrieve avatar command
   - added message clear command
+  - updated help menu
   - improved reply-to-delete for moderation commands
   - added manage server permission requirements for management commands
   - **removed invite link**
