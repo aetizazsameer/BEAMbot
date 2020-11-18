@@ -3,6 +3,7 @@
 
 My first Discord bot, complete with inside jokes and server moderation utility.
 Written by a small team of three using the Java Discord API. 
+**No longer self-hosted.** 
 
 - v1.0 
   - initial release
@@ -45,5 +46,5 @@ Written by a small team of three using the Java Discord API.
   - added manage server permission requirements for management commands
   - **removed invite link**
   - **ended self-hosting**
-  
+
 https://youtu.be/I25Cqlr5_Sc
