@@ -45,7 +45,7 @@ Written by a small team of three using the Java Discord API.
   - updated help menu
   - improved reply-to-delete for moderation commands
   - added manage server permission requirements for management commands
-  - **removed invite link**
+  - **removed invite link and command**
   - **ended self-hosting**
 
 https://youtu.be/I25Cqlr5_Sc
